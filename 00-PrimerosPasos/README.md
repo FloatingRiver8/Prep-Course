@@ -293,6 +293,6 @@ Ya tenemos todo para empezar... Éxitos!!! 🍀
   </tr>
 </table>
 
----
+--
 
 #### Si tienes dudas sobre este tema, puedes consultarlas en el canal ***01a-primeros-pasos*** de Slack
